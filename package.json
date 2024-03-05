@@ -1,5 +1,5 @@
 {
-  "name": "js-utils",
+  "name": "js-sh-utils",
   "version": "1.0.0",
   "description": "js-utils is a collection of utility simplified functions for JavaScript",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElayaramanR-Projects/js-utils.git"
+    "url": "git+https://github.com/ElayaramanR-Projects/js-sh-utils.git"
   },
   "author": "Elayaraman Ramalingam",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ElayaramanR-Projects/js-utils/issues"
+    "url": "https://github.com/ElayaramanR-Projects/js-sh-utils/issues"
   },
-  "homepage": "https://github.com/ElayaramanR-Projects/js-utils#readme"
+  "homepage": "https://github.com/ElayaramanR-Projects/js-sh-utils#readme"
 }
