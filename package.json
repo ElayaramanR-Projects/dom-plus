@@ -1,0 +1,19 @@
+{
+  "name": "js-utils",
+  "version": "1.0.0",
+  "description": "js-utils is a collection of utility simplified functions for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElayaramanR-Projects/js-utils.git"
+  },
+  "author": "Elayaraman Ramalingam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElayaramanR-Projects/js-utils/issues"
+  },
+  "homepage": "https://github.com/ElayaramanR-Projects/js-utils#readme"
+}
